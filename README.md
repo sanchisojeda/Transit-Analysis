@@ -1,3 +1,3 @@
 # Transit-Analysis
 
-LC Analysis. Summer Research Project 2015.
+LC Analysis. Summer Research Project 2015
